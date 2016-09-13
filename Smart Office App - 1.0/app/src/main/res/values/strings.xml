@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="action_settings">Settings</string>
+    <string name="ac">AC</string>
+    <string name="light_4">Light 4</string>
+    <string name="light_3">Light 3</string>
+    <string name="light_2">Light 2</string>
+    <string name="light_1">Light 1</string>
+</resources>
